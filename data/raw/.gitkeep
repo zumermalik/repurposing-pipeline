@@ -1,0 +1,2 @@
+# This file forces Git to track the raw data directory.
+# All actual raw omics and SMILES data should be placed here but ignored by version control.
