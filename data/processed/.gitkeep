@@ -1,0 +1,2 @@
+# This file forces Git to track the processed data directory.
+# Cleaned KGs, graph embeddings, and parsed targets go here.
