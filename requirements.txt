@@ -1,0 +1,17 @@
+# AI & Machine Learning
+torch>=2.0.0
+torch-geometric>=2.3.0
+scikit-learn>=1.2.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Bioinformatics & Chemoinformatics
+rdkit-pypi>=2022.9.5
+biopython>=1.81
+networkx>=3.0
+
+# Utilities
+tqdm
+pyyaml
+black
+pytest
